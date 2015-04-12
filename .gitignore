@@ -1,0 +1,5 @@
+.*.swp
+node_modules
+credentials
+assets/entry.js
+assets/bundle.js
